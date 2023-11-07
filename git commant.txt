@@ -7,3 +7,4 @@ git branch --- create a new branch, delete branches and rename branches.
 git check out --- lets you navigate between the branches created by git branch . 
 git config ---set git configuration values on a global or local project level.
 git clone ---to point to an existing repo and make a clone or copy of that repo at in a new directory, at another location.
+git diff ---comparing changes.
