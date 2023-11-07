@@ -5,3 +5,4 @@ git commit -m command --- what you'll use to take all of the changes that have b
 git log command ---displays committed snapshots.
 git branch --- create a new branch, delete branches and rename branches.
 git check out --- lets you navigate between the branches created by git branch . 
+git config ---set git configuration values on a global or local project level.
