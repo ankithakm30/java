@@ -1,2 +1,2 @@
 git init ---it creates a new git repository
- 
+git adds a change in the working directory to the staging area
